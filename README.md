@@ -1,6 +1,6 @@
 # Portfolio
 
-🌐*Live Demo:* https://https://anujyadav-tech.github.io/portfolio/
+🌐*Live Demo:* https://anujyadav-tech.github.io/portfolio/
 
 ## About
 I am Anuj Yadav, a BCA student and Web Developer.
